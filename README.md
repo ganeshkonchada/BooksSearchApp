@@ -1,3 +1,3 @@
 # BooksSearchApp
 
-This app used add, view, edit, delte books.
+This app used to add, view, edit, delete books.
